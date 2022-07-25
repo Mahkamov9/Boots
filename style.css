@@ -140,6 +140,8 @@ a{
   width: 25px;
   height: 25px;
   margin: 25px 10px;
+  transition: 0.3s;
+  transform: scale(1.1);
 }
 
 .respon{
