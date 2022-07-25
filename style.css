@@ -136,3 +136,25 @@ a{
   border-radius: 50%;
 
 }
+.linkImg{
+  width: 25px;
+  height: 25px;
+  margin: 25px 10px;
+}
+
+.respon{
+  display: none;
+}
+
+
+
+
+@media(max-width:1000px){
+  header{
+    display: none;
+
+  }
+  .respon{
+    display: block;
+  }
+}
